@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Inter, Arial, sans-serif;
+}
+
+.hero-section {
+    min-height: 70vh;
+    background:
+        linear-gradient(180deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.85)),
+        url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+}
+
+.card-title {
+    color: #e50914;
+}
